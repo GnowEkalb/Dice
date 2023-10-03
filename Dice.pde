@@ -9,8 +9,8 @@ void setup()
 }
 void mousePressed()
 {
-  redraw();
   sum = 0;
+  redraw();
 }
 int v;
 int sum = 0;
